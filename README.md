@@ -4,7 +4,7 @@ Submitted by: **Carlos Sac**
 
 **Wordle** is an android app that recreates a simple version of the popular word game Wordle.
 
-Time spent: **3.5** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
